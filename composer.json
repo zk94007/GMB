@@ -1,0 +1,5 @@
+{
+    "require": {
+        "bronhy/google-my-business-php-client": "^4.7"
+    }
+}
